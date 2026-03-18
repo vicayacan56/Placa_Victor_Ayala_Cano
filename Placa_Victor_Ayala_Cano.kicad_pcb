@@ -13429,6 +13429,17 @@
 			(uuid "ec959e16-f3e5-4cd2-899c-f7d19eb81a3f")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3Dmodels/57PC5FS.step"
+			(offset
+				(xyz 0 0 11)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Package_TO_SOT_SMD:SOT-23-6"
 		(layer "F.Cu")
@@ -42455,7 +42466,7 @@
 			(uuid "238ce31c-4103-41b5-a32f-ef2eafa62794")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/PC/Desktop/UNI/EEG MIDI/COMPONENTES/3d/UNO Q simplified.STEP"
+		(model "${KIPRJMOD}/3Dmodels/UNO Q simplified.STEP"
 			(offset
 				(xyz 6.5 9.5 28)
 			)

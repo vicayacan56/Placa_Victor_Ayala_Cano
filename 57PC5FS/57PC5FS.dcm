@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 57PC5FS
-D DIN Connectors DIN CON 5 PIN
-K
-F http://www.switchcraft.com/Drawings/57PC5FS_CD.pdf
-$ENDCMP
-#
-#End Doc Library
